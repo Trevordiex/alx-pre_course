@@ -1,7 +1,7 @@
 #Alx Pre-Course
 
-##Author
+## Author
 * Trevordiex
 
-##Contact
+## Contact
 * None
